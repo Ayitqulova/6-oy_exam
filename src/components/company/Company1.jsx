@@ -7,7 +7,7 @@ export default function Company() {
                     <p className="font-medium text-[14px] leading-[143%] uppercase " >Company</p>
                     <h1 class=" w-[50%] text-5xl font-semibold leading-[58px]">Award-winning Company seen and used by millions around the world.</h1>
                     <p className=" w-[50%] font-normal text-[16px] leading-[151%] opacity-[0.87] " >It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The Maker is a decentralized. </p>
-                    <img className=" absolute top-0 right-0 "  src="public/images/Shapes (8).png" alt="" />
+                    <img className=" absolute top-0 right-0 "  src="/images/Shapes (8).png" alt="" />
                 </div>
 
                 <div class="flex gap-[11px] pt-20 ">

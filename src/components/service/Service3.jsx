@@ -7,7 +7,7 @@ export default function  Service3() {
                 <h1 className="font-bold text-[36px] leading-[150%] text-[#232536]">Best in class tech support for your company. We become your tech backbone </h1>
                 <p className=" w-[75%] font-normal text-[16px] text-[#232536] opacity-[0.6] leading-[150%]  ">Through True Rich Attended does no end it his mother since real had half every him case in packages enquire we up ecstatic unsatiable saw his giving Remain expense you position concluded. Through True Rich Attended does no end it his mother since real had half every.</p>
             </div>
-            <img className=" mb-20 "  src="public/images/Feature 1 Image.svg" alt="" />
+            <img className=" mb-20 "  src="/images/Feature 1 Image.svg" alt="" />
 
         </section>
     )

@@ -4,19 +4,19 @@ export default function Section7() {
     return (
         <section className="w-[80%] m-auto py-28 ">
             <div className=" relative w-[100%] m-auto h-[333px]  bg-[#666DFF]  justify-between items-center flex" >
-                <img className="absolute top-0" src="public/images/Shapes (4).png" alt="" />
+                <img className="absolute top-0" src="/images/Shapes (4).png" alt="" />
                 <div className=" py-[96px] pl-[96px]"><p className="font-medium text-[14px] leading-[143%] uppercase tracking-widest text-white" >NEWSLETTER</p>
                     <h1 className="  w-[80%] font-bold text-4xl leading-[150%] text-white" >Subscribe our News Letterto get Latest Updates.</h1></div>
                 <div className=" w-[454px] h-[64px] bg-[#FFFFFF]  mr-[96px]  ">
                     <p className="font-medium text-[16px] leading-[24px opacity-[40%] justify-center items-center p-[20px]">Paresh@Pixeto.com</p>
                 </div>
-                <img className="absolute -right-4" src="public/images/Shapes (5).png" alt="" />
+                <img className="absolute -right-4" src="/images/Shapes (5).png" alt="" />
 
             </div>
 
           <div className="mt-[162px] flex justify-between items-center " >
               <div className=" w-[40%]">
-                <img className="mb-[20px]" src="public/images/Shapes (7).png" alt="" />
+                <img className="mb-[20px]" src="/images/Shapes (7).png" alt="" />
                 <h1 className=" font-semibold text-5xl text-[#232536] leading-[121%] " >Let's make something special</h1>
                 <h4 className="font-semibold text-2xl leading-[150%] text-[#232536] mt-[40px] ">Let's talk! 🤙 </h4>
                 <p className="font-medium text-[18px] leading-[156%] text-[#232536] mt-[28px] ">020 7993 2905</p>
@@ -60,9 +60,9 @@ export default function Section7() {
             </div>
 
              <div className="flex absolute gap-[15px] items-center -bottom-20 right-2 " >
-         <img className="" src="public/images/Shapes (6).png" alt="" />
+         <img className="" src="/images/Shapes (6).png" alt="" />
             <p className="" >Contact Us</p>
-            <img className=" w-[20px] " src="public/images/Icon (2).png" alt="" />
+            <img className=" w-[20px] " src="/images/Icon (2).png" alt="" />
     </div>
     </div>
 

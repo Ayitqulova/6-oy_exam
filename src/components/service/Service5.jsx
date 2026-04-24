@@ -7,7 +7,7 @@ export default function  Service5() {
                 <h1 className="font-bold text-[36px] leading-[150%] text-[#232536] w-[580px]  ">We help you deploy, manage and secure your application on leading web services </h1>
                 <p className=" w-[75%] font-normal text-[16px] text-[#232536] opacity-[0.6] leading-[150%]  ">Through True Rich Attended does no end it his mother since real had half every him case in packages enquire we up ecstatic unsatiable saw his giving Remain expense you position concluded. Through True Rich Attended does no end it his mother since real had half every.</p>
             </div>
-            <img className=" mb-20 "  src="public/images/Image (6).png" alt="" />
+            <img className=" mb-20 "  src="/images/Image (6).png" alt="" />
 
         </section>
     )

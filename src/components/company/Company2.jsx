@@ -14,7 +14,7 @@ export default function Company2() {
                 <div className="w-[515px] h-[383px] bg-[#fae2ce] grid grid-cols-2 items-center p-12 gap-10">
                     <div className="flex flex-col gap-2">
                         <h1 className="font-semibold text-4xl leading-[56px]">1560+</h1>
-                        <img src="public/images/Shapes (9).png" alt="logo" className="w-20" />
+                        <img src="/images/Shapes (9).png" alt="logo" className="w-20" />
                         <p className="font-normal text-[16px] leading-[24px]">Project Delivered</p>
                     </div>
 
@@ -40,11 +40,11 @@ export default function Company2() {
             </div>
 
             <div class="flex  gap-[32px] bg-[#fafafc]  mt-[96px] items-center justify-between ">
-                <img className="w-[186px]" src="public/images/Logo (7).png" alt="" />
-                <img src="public/images/Logo (8).png" alt="" />
-                <img src="public/images/Logo.png" alt="" />
-                <img src="public/images/Logo (9).png" alt="" />
-                <img src="public/images/Logo (10).png" alt="" />
+                <img className="w-[186px]" src="/images/Logo (7).png" alt="" />
+                <img src="/images/Logo (8).png" alt="" />
+                <img src="/images/Logo.png" alt="" />
+                <img src="/images/Logo (9).png" alt="" />
+                <img src="/images/Logo (10).png" alt="" />
 
             </div>
             

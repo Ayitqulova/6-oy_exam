@@ -3,7 +3,7 @@ export default function Service6() {
     return (
         <section className="bg-[#F9F9FF]" >
             <div className=" w-[80%] m-auto flex">
-                <img className="top-0 mb-[70px]" src="public/images/Image (7).png" alt="" />
+                <img className="top-0 mb-[70px]" src="/images/Image (7).png" alt="" />
 
                <div className="flex flex-col gap-6 py-28 p-25 " >
                 <h4 className="font-semibold text-2xl opacity-[0.87] leading-[150%]  " >Consulting</h4>

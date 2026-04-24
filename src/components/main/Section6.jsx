@@ -9,7 +9,7 @@ export default function Section6(){
                 <div className="flex gap-10">
 
                     <div className=" flex  w-[50%] bg-white">
-                        <img src="public/images/Image (2).png" alt="" />
+                        <img src="/images/Image (2).png" alt="" />
 
                         <div className="flex flex-col p-7 ">
 
@@ -21,7 +21,7 @@ export default function Section6(){
                     </div>
 
                     <div className=" flex  w-[50%] bg-white">
-                        <img src="public/images/Image (3).png" alt="" />
+                        <img src="/images/Image (3).png" alt="" />
 
                         <div className="flex flex-col p-7 ">
 
