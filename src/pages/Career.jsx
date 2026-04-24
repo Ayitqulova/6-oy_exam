@@ -1,4 +1,4 @@
-import Career1 from "../components/Career/Career1";
+import Career1 from "../components/career/Career1";
 import Career2 from "../components/career/Career2";
 import Career3 from "../components/career/Career3";
 import Footer from "../components/footer/Footer";

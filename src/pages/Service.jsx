@@ -1,5 +1,5 @@
 import Navbar from "../components/header/Navbar";
-import ServiceMain from "../components/service/service";
+import ServiceMain from "../components/service/Service";
 
 
 export default function Service(){
