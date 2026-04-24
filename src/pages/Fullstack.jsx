@@ -1,6 +1,6 @@
 import { useParams } from "react-router-dom";
 import Navbar from "../components/header/Navbar";
-import Fullstack1 from "../components/Fullstack/fullstack1";
+import Fullstack1 from "../components/fullstack/Fullstack1";
 
 
 export default function Fullstack(){

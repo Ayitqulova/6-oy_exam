@@ -1,4 +1,4 @@
-import Footer from "../footer/footer";
+import Footer from "../footer/Footer";
 import Section4 from "../main/Section4";
 import Section7 from "../main/Section7";
 import Service1 from "./Service1";

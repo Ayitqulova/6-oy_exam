@@ -5,7 +5,7 @@ import Section2 from "../components/main/Section2";
 import Company4 from "../components/company/Company4";
 import Company5 from "../components/company/Company5";
 import Section7 from "../components/main/Section7";
-import Footer from "../components/footer/footer";
+import Footer from "../components/footer/Footer";
 
 export default function Company (){
 
