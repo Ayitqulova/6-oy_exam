@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import Navbar from "../components/header/Navbar";
 import Fullstack1 from "../components/fullstack/Fullstack1";
 import Fullstack4 from "../components/fullstack/Fullstack4";
-import Footer from "../components/footer/footer";
+import Footer from "../components/footer/Footer";
 import Section7 from "../components/main/Section7";
 
 
