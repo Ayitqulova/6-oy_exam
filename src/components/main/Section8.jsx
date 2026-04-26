@@ -1,21 +1,9 @@
 import { Link } from "react-router-dom"
-export default function Section7() {
+export default function Section8(){
 
-
-    return (
-        <section className="w-[80%] m-auto py-28 ">
-            <div className=" relative w-[100%] m-auto h-[333px]  bg-[#666DFF]  justify-between items-center flex" >
-                <img className="absolute top-0" src="/images/Shapes (4).png" alt="" />
-                <div className=" py-[96px] pl-[96px]"><p className="font-medium text-[14px] leading-[143%] uppercase tracking-widest text-white" >NEWSLETTER</p>
-                    <h1 className="  w-[80%] font-bold text-4xl leading-[150%] text-white" >Subscribe our News Letterto get Latest Updates.</h1></div>
-                <div className=" w-[454px] h-[64px] bg-[#FFFFFF]  mr-[96px]  ">
-                    <p className="font-medium text-[16px] leading-[24px opacity-[40%] justify-center items-center p-[20px]">Paresh@Pixeto.com</p>
-                </div>
-                <img className="absolute -right-4" src="/images/Shapes (5).png" alt="" />
-
-            </div>
-
-          <div className="mt-[162px] flex justify-between items-center " >
+    return(
+        <section className="w-[80%] m-auto py-10">
+             <div className="mt-[30px] flex justify-between items-center " >
               <div className=" w-[40%]">
                 <img className="mb-[20px]" src="/images/Shapes (7).png" alt="" />
                 <h1 className=" font-semibold text-5xl text-[#232536] leading-[121%] " >Let's make something special</h1>
@@ -66,12 +54,6 @@ export default function Section7() {
             <img className=" w-[20px] " src="/images/Icon (2).png" alt="" />
     </div>
     </div>
-
-   
-
-
-
-
           </div>
         </section>
     )

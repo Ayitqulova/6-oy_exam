@@ -1,48 +1,49 @@
+import { Link } from "react-router-dom";
+
 export default function Navbar(){
-    return(
-        <nav class="w-[80%] mx-auto flex items-center justify-between py-10 ">
+    return( 
+        <nav className="w-[80%] mx-auto flex items-center justify-between py-10 ">
                 <img className="w-[122px]" src="/images//Logo.svg" alt="" />
                 <div>
-                    <ul class=" flex gap-8">
+                    <ul className=" flex gap-8">
                         <li>
-                            <a href="/">
-                                <span class="text-white text-[16px] font-normal ">Home</span>
-                            </a>
+                            <Link to="/">
+                                <span className="text-white text-[16px] font-normal ">Home</span>
+                            </Link>
                         </li>
                         <li>
-                            <a href="/service">
-                                <span class="text-white opacity-60">Service</span>
-                            </a>
+                            <Link to="/service">
+                                <span className="text-white opacity-60">Service</span>
+                            </Link>
                         </li>
                         <li>
-                            <a href="/company">
-                                <span class="text-white opacity-60">Company</span>
-                            </a>
+                            <Link to="/company">
+                                <span className="text-white opacity-60">Company</span>
+                            </Link>
                         </li>
                         <li>
-                            <a href="/career">
-                                <span class="text-white opacity-60">Career</span>
-                            </a>
+                            <Link to="/career">
+                                <span className="text-white opacity-60">Career</span>
+                            </Link>
                         </li>
                         <li>
-                            <a href="/blog">
-                                <span class="text-white opacity-60">Blog</span>
-                            </a>
+                            <Link to="/blog">
+                                <span className="text-white opacity-60">Blog</span>
+                            </Link>
                         </li>
                         <li>
-                            <a href="/contact us">
-                                <span class="text-white opacity-60">Contact us</span>
-                            </a>
+                            <Link to="/contact">
+                                <span className="text-white opacity-60">Contact us</span>
+                            </Link>
                         </li>
                         <li>
-                            <a href="/clone project">
-                                <span class="flex gap-2 items-center text-[#FFD3AF] ">Clone project <img src="./images/Icon.png"
+                            <Link to="/clone project">
+                                <span className="flex gap-2 items-center text-[#FFD3AF] ">Clone project <img src="./images/Icon.png"
                                         alt="" /></span>
-                            </a>
+                            </Link>
                         </li>
                     </ul>
                 </div>
             </nav>
     )
 }
-

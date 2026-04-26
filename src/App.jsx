@@ -4,6 +4,11 @@ import Service from "./pages/Service"
 import Company from "./pages/Company"
 import Career from "./pages/Career"
 import Fullstack from "./pages/Fullstack"
+import Blog from "./pages/Blog"
+import Bloginner from "./pages/Bloginner"
+import Team from "./pages/Team"
+import Contact from "./pages/Contact"
+import Policy from "./pages/Policy"
 function App() {
 
   return (
@@ -14,6 +19,11 @@ function App() {
         <Route path="/company" element={<Company />}/>
         <Route path="/career" element={<Career />}/>
         <Route path="/career/:slug" element={<Fullstack />}/>  
+        <Route path="/blog/:slug" element={<Bloginner />} />
+        <Route path="/company/:slug" element={<Team />} />
+        <Route path="main/:slug" element={<Policy />} />
+        <Route path="/blog" element={<Blog />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
    </BrowserRouter>
   )
